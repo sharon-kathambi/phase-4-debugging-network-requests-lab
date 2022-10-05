@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: rectified class name Toy 
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: render json
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: added destroy route 
